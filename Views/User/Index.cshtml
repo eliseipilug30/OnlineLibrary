@@ -1,0 +1,40 @@
+﻿@model IEnumerable<OnlineLibrary.Models.UserWithLoanCount>
+
+@{
+    ViewBag.Title = "Users";
+}
+
+<h2>Users</h2>
+
+<p>
+    @Html.ActionLink("Create New User", "Create", "User", null, new { @class = "btn btn-primary" })
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Role</th>
+            <th>Loans</th> <!-- Adăugăm coloana pentru împrumuturi -->
+            <th>Actions</th> <!-- Coloană pentru acțiuni -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Username</td>
+                <td>@user.Email</td>
+                <td>@user.Role</td>
+                <td>@user.LoanCount</td> <!-- Afișăm numărul de împrumuturi -->
+                <td>
+                    <!-- Link-uri pentru Edit, Details, Delete -->
+                    @Html.ActionLink("Edit", "Edit", "User", new { id = user.Id }, new { @class = "btn btn-warning btn-sm" }) |
+                    @Html.ActionLink("Details", "Details", "User", new { id = user.Id }, new { @class = "btn btn-info btn-sm" }) |
+                    @Html.ActionLink("Delete", "Delete", "User", new { id = user.Id }, new { @class = "btn btn-danger btn-sm" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

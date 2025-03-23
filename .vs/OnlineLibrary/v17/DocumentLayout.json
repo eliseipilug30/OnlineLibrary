@@ -1,0 +1,788 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|c:\\users\\elisei\\desktop\\an4\\biblioteca online\\onlinelibrary\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\loans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\loans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\loans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\loans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\loans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\loans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\loans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\loans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\loans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\loans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\models\\userwithloancount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:models\\userwithloancount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\migrations\\202503131438513_removehashfrompassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:migrations\\202503131438513_removehashfrompassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\migrations\\202503112137301_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:migrations\\202503112137301_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\data\\onlinelibrarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:data\\onlinelibrarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\migrations\\202503131329370_addemailtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:migrations\\202503131329370_addemailtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OnlineLibraryDB/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\scripts\\bootstrap.js.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:scripts\\bootstrap.js.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA8AC6-EB56-422B-81D5-EE8A2BC07038}|OnlineLibrary.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Loans\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loans\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Loans\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Loans\\Delete.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:28:40.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Loans\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loans\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Loans\\Create.cshtml",
+              "RelativeToolTip": "Views\\Loans\\Create.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAADUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:28:03.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T09:29:19.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T14:26:13.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:27:57.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAADwv1EAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:43:07.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:46:21.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Loans\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loans\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Loans\\Details.cshtml",
+              "RelativeToolTip": "Views\\Loans\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:28:45.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Loans\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loans\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Loans\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Loans\\Edit.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:28:52.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Loans\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loans\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Loans\\Index.cshtml",
+              "RelativeToolTip": "Views\\Loans\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:28:59.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:27:54.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:27:50.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Books\\Edit.cshtml",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:27:13.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "Views\\Books\\Details.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:27:07.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Books\\Delete.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:27:00.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "Views\\Books\\Create.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:26:53.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Authors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Authors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:26:26.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Authors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Authors\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:26:17.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Authors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Authors\\Details.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:26:14.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Views\\Books\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T21:56:25.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Authors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Authors\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:26:07.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Authors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Authors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:25:56.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserWithLoanCount.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Models\\UserWithLoanCount.cs",
+              "RelativeDocumentMoniker": "Models\\UserWithLoanCount.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Models\\UserWithLoanCount.cs",
+              "RelativeToolTip": "Models\\UserWithLoanCount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:25:04.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "202503112137301_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Migrations\\202503112137301_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\202503112137301_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Migrations\\202503112137301_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\202503112137301_InitialCreate.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:37:33.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "202503131438513_RemoveHashFromPassword.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Migrations\\202503131438513_RemoveHashFromPassword.cs",
+              "RelativeDocumentMoniker": "Migrations\\202503131438513_RemoveHashFromPassword.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Migrations\\202503131438513_RemoveHashFromPassword.cs",
+              "RelativeToolTip": "Migrations\\202503131438513_RemoveHashFromPassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:38:55.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:25:45.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:21:05.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Models\\Loan.cs",
+              "RelativeToolTip": "Models\\Loan.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA4wBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:28:37.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:26:40.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OnlineLibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Data\\OnlineLibraryContext.cs",
+              "RelativeDocumentMoniker": "Data\\OnlineLibraryContext.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Data\\OnlineLibraryContext.cs",
+              "RelativeToolTip": "Data\\OnlineLibraryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:35:38.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAAAQwPkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:38:46.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoansController.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Controllers\\LoansController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoansController.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Controllers\\LoansController.cs",
+              "RelativeToolTip": "Controllers\\LoansController.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAwwLMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:49:14.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:39:26.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:00:48.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:13:35.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:23:40.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Views\\User\\Create.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T14:15:12.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "202503131329370_AddEmailToUser.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Migrations\\202503131329370_AddEmailToUser.cs",
+              "RelativeDocumentMoniker": "Migrations\\202503131329370_AddEmailToUser.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Migrations\\202503131329370_AddEmailToUser.cs",
+              "RelativeToolTip": "Migrations\\202503131329370_AddEmailToUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:29:41.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T13:22:13.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwBgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T14:18:40.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Web.Debug.config",
+              "RelativeDocumentMoniker": "Web.Debug.config",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Web.Debug.config",
+              "RelativeToolTip": "Web.Debug.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-13T12:03:11.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Web.Release.config",
+              "RelativeDocumentMoniker": "Web.Release.config",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Web.Release.config",
+              "RelativeToolTip": "Web.Release.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-13T12:03:19.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Views\\Web.config",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Web.config",
+              "RelativeToolTip": "Views\\Web.config",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-13T12:59:09.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-13T12:59:23.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dbo.Books [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OnlineLibraryDB/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "dbo.Books [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-13T12:35:51.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:36:45.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "bootstrap.js.map",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Scripts\\bootstrap.js.map",
+              "RelativeDocumentMoniker": "Scripts\\bootstrap.js.map",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Scripts\\bootstrap.js.map",
+              "RelativeToolTip": "Scripts\\bootstrap.js.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-11T13:12:43.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Elisei\\Desktop\\An4\\Biblioteca Online\\OnlineLibrary\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T09:34:21.63Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
